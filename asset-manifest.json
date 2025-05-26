@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/InfamousBolt/keshav-portfolio/static/css/main.bb7269e6.css",
+    "main.js": "/InfamousBolt/keshav-portfolio/static/js/main.77973b65.js",
+    "static/js/453.579f78e5.chunk.js": "/InfamousBolt/keshav-portfolio/static/js/453.579f78e5.chunk.js",
+    "static/media/aboutMe.png": "/InfamousBolt/keshav-portfolio/static/media/aboutMe.46b4f6c21b5db4916fde.png",
+    "static/media/logo.png": "/InfamousBolt/keshav-portfolio/static/media/logo.807a2605042233d0ddbe.png",
+    "static/media/me.jpeg": "/InfamousBolt/keshav-portfolio/static/media/me.b28483d8e38a2202ccbe.jpeg",
+    "static/media/DePixelHalbfett.ttf": "/InfamousBolt/keshav-portfolio/static/media/DePixelHalbfett.519749799470abd72e4e.ttf",
+    "index.html": "/InfamousBolt/keshav-portfolio/index.html",
+    "main.bb7269e6.css.map": "/InfamousBolt/keshav-portfolio/static/css/main.bb7269e6.css.map",
+    "main.77973b65.js.map": "/InfamousBolt/keshav-portfolio/static/js/main.77973b65.js.map",
+    "453.579f78e5.chunk.js.map": "/InfamousBolt/keshav-portfolio/static/js/453.579f78e5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bb7269e6.css",
+    "static/js/main.77973b65.js"
+  ]
+}
